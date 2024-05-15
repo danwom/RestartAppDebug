@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restart">
+    <test name="RestartTest">
+        <classes>
+            <class name="com.browserstack.RestartTest1"/>
+            <class name="com.browserstack.RestartTest2"/>
+            <class name="com.browserstack.RestartTest3"/>
+        </classes>
+    </test>
+</suite>
